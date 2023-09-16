@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ball
+  - BG_MUSIC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ignore Collision
+  - Water
+  - UI
+  - x0
+  - x1
+  - x2
+  - x3
+  - x4
+  - x5
+  - x6
+  - x7
+  - x0_trap
+  - x1_trap
+  - x2_trap
+  - x3_trap
+  - x4_trap
+  - x5_trap
+  - x6_trap
+  - x7_trap
+  - xg
+  - y1
+  - yg
+  - z1
+  - zg
+  - cleaner_trap
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
